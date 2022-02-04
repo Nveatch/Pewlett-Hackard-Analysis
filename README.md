@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of this pewlett hackard analysis was to create two tables in a CSV format using SQL and pgAdmin:
+The purpose of this Pewlett Hackard analysis was to create two tables in a CSV format using SQL and pgAdmin:
 1. A table of all retiring employees per title
 
 2. A table of all retiring employees who are able to participate in a mentorship program
