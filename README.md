@@ -9,13 +9,13 @@ The purpose of this pewlett hackard analysis was to create two tables in a CSV f
 2. A table of all retiring employees who are able to participate in a mentorship program
 
 ## Results
-![Employee Title Summary](https://github.com/Nveatch/Pewlett_Hackard_Analysis/blob/main/Resources/employee_titles.png)
+![Employee Title Summary](https://github.com/Nveatch/Pewlett-Hackard-Analysis/blob/main/Resources/employee_titles.png)
 
 - The position with the most retiring employees is the "Senior Engineer" position, with 25,916 retirees. This accounts for ~30% of the current 85,939 Senior Engineers.
 
 - The position with the second most retiring employees is the "Senior Staff" position, with 24,926 retirees. This also accounts for ~30% of the current 82,024 Senior Staff.
 
-![Mentorship by Title](https://github.com/Nveatch/Pewlett_Hackard_Analysis/blob/main/Resources/mentorship_by_title.png)
+![Mentorship by Title](https://github.com/Nveatch/Pewlett-Hackard-Analysis/blob/main/Resources/mentorship_by_title.png)
 
 - Despite roughly the same amount of employees retiring from the "Senior Engineer" and "Senior Staff" positions (and thus needing to be filled), there are almost three times as many potential mentors for "Senior Staff"
 
