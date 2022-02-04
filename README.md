@@ -22,15 +22,15 @@ The purpose of this pewlett hackard analysis was to create two tables in a CSV f
 - There are no eligible retirees for the mentorship program to mentor for the "Manager" positions that will be open.
 
 ## Pewlett Hackard Analysis Summary
-**How many roles will need to be filled as the "silver tsunami" begins to make an impact?**
+### **How many roles will need to be filled as the "silver tsunami" begins to make an impact?**
 
 72,458 roles will need to be filled assuming all the potential retirees retire.
 
-**Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?**
+### **Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?**
 
 As mentioned in my results secion, and shown in the second picture, there are significantly more potential mentors for the "Senior Staff" position than the "Senior Engineer" position, despite roughly equal numbers of employees retiring from both positions. If the potential 169 Senior Engineer mentors would be enough for the 25,916 openings would have to be assessed. In addition, as I mentioned as well in the results section, there are not any potential mentors for the two manager roles that would open as a result of the "silver tsunami".
 
-**What two additional tables would you provide to give more insight into the upcoming "silver tsunami"?**
+### **What two additional tables would you provide to give more insight into the upcoming "silver tsunami"?**
 
 The two tables I would provide are the ones I ran for my own results in the above section:
 1. A table that shows the count of all the current employees grouped by their position, in order to see the percentage of retirees compared to the total employees (by position)
